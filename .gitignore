@@ -1,0 +1,8 @@
+build/
+target/
+.settings
+.DS_Store
+.gradle
+mtodo.iml
+.idea
+src/main/resources/data
