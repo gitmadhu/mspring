@@ -1,0 +1,3 @@
+[submodule "extdepsearch"]
+	path = extdepsearch
+	url = https://github.com/gitmadhu/mspring.git
